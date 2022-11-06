@@ -2,7 +2,7 @@
 slug: my-blog-post
 title: My Blog Post
 authors: [anaximandre]
-tags: [docusaurus]
+tags: [docusaurus, markdown]
 ---
 
 ---
