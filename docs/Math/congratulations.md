@@ -4,7 +4,6 @@ sidebar_position: 6
 
 # Introduction
 
-Haskell étais ...
 
 Docusaurus has **much more to offer**!
 
